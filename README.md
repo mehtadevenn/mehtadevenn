@@ -42,9 +42,12 @@
 
 About
 I'm a Computer Science undergrad who doesn't wait for a job title to do serious work.
-While most people my age are still doing tutorials, I've been building production systems — RAG pipelines, multi-agent LLM frameworks, real-time data infrastructure — the kind of stuff that runs at scale and breaks in interesting ways.
-My obsession is AI/ML engineering. Not the surface-level kind. I care about what happens after the model is trained — how it gets served, evaluated, monitored, and improved without falling apart at 3am. I've gone deep on LLM fine-tuning, retrieval systems, and inference optimization because that's where the real engineering lives.
-I build full stack when the problem demands it. I write backend systems when performance matters. I go into cloud infrastructure when scale is the constraint. The tech I pick is always in service of the outcome — never the other way around.
+While most people my age are still doing tutorials, I've been building production systems RAG pipelines, multi-agent LLM frameworks, real-time data infrastructure the kind of stuff that runs at scale and breaks in interesting ways.
+
+My obsession is AI/ML engineering. Not the surface-level kind. I care about what happens after the model is trained how it gets served, evaluated, monitored, and improved without falling apart at 3am. I've gone deep on LLM fine-tuning, retrieval systems, and inference optimization because that's where the real engineering lives.
+
+I build full stack when the problem demands it. I write backend systems when performance matters. I go into cloud infrastructure when scale is the constraint. The tech I pick is always in service of the outcome never the other way around.
+
 I'm not looking for permission to contribute. I find the hard problem, figure it out, and ship it.
 Open To: AI/ML Engineering Roles · Full Stack Internships · Research Engineering · Open Source Collaboration
 
