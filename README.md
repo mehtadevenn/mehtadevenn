@@ -49,9 +49,8 @@ My obsession is AI/ML engineering. Not the surface-level kind. I care about what
 I build full stack when the problem demands it. I write backend systems when performance matters. I go into cloud infrastructure when scale is the constraint. The tech I pick is always in service of the outcome never the other way around.
 
 I'm not looking for permission to contribute. I find the hard problem, figure it out, and ship it.
-Open To: AI/ML Engineering Roles · Full Stack Internships · Research Engineering · Open Source Collaboration
 
-**Open To:** Senior / Staff / Principal Engineering roles · AI/ML Engineering · Platform Engineering · Technical Leadership · Remote & Hybrid Opportunities
+**Open To:** Senior · AI/ML Engineering Roles · Full Stack Internships · Research Engineering · Open Source Collaboration · Remote & Hybrid Opportunities
 
 ---
 
