@@ -82,18 +82,70 @@ I'm not looking for permission to contribute. I find the hard problem, figure it
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| **Large Language Models** | ████████████ Expert | GPT-4, Claude, Gemini, Llama · Fine-tuning · LoRA / QLoRA · RLHF |
-| **Retrieval-Augmented Generation** | ████████████ Expert | LangChain · LlamaIndex · Pinecone · Weaviate · FAISS |
-| **Multi-Agent Systems** | ██████████░░ Advanced | AutoGen · CrewAI · Custom agent orchestration frameworks |
-| **Deep Learning** | ██████████░░ Advanced | PyTorch · TensorFlow · Transformers · CNNs · RNNs |
-| **MLOps & Model Serving** | ██████████░░ Advanced | MLflow · BentoML · Triton · SageMaker · Vertex AI |
-| **Computer Vision** | ████████░░░░ Proficient | YOLO · OpenCV · Segment Anything · Stable Diffusion |
-| **NLP & Text Analytics** | ████████████ Expert | Hugging Face · spaCy · BERT · Sentence Transformers |
-| **Data Engineering** | ██████████░░ Advanced | Apache Spark · dbt · Airflow · Feature Stores |
-| **Prompt Engineering** | ████████████ Expert | Chain-of-Thought · Few-Shot · Structured Outputs · Evals |
-| **Vector Databases** | ██████████░░ Advanced | Pinecone · Qdrant · ChromaDB · pgvector |
+<svg width="100%" viewBox="0 0 680 620" role="img" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bar1" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#7c3aed"/><stop offset="100%" stop-color="#a855f7"/></linearGradient>
+    <linearGradient id="bar2" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#6d28d9"/><stop offset="100%" stop-color="#8b5cf6"/></linearGradient>
+    <linearGradient id="bar3" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#4f46e5"/><stop offset="100%" stop-color="#818cf8"/></linearGradient>
+    <linearGradient id="bar4" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#7c3aed"/><stop offset="100%" stop-color="#c084fc"/></linearGradient>
+    <linearGradient id="bar5" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#5b21b6"/><stop offset="100%" stop-color="#a78bfa"/></linearGradient>
+    <style>
+      @keyframes growBar1 { from { width: 0; } to { width: 370px; } }
+      @keyframes growBar2 { from { width: 0; } to { width: 350px; } }
+      @keyframes growBar3 { from { width: 0; } to { width: 320px; } }
+      @keyframes growBar4 { from { width: 0; } to { width: 340px; } }
+      @keyframes growBar5 { from { width: 0; } to { width: 390px; } }
+      @keyframes growBar6 { from { width: 0; } to { width: 280px; } }
+      @keyframes growBar7 { from { width: 0; } to { width: 340px; } }
+      @keyframes growBar8 { from { width: 0; } to { width: 340px; } }
+      @keyframes growBar9 { from { width: 0; } to { width: 390px; } }
+      @keyframes growBar10 { from { width: 0; } to { width: 300px; } }
+      .b1{animation:growBar1 1.2s cubic-bezier(.22,1,.36,1) 0.1s both}
+      .b2{animation:growBar2 1.2s cubic-bezier(.22,1,.36,1) 0.2s both}
+      .b3{animation:growBar3 1.2s cubic-bezier(.22,1,.36,1) 0.3s both}
+      .b4{animation:growBar4 1.2s cubic-bezier(.22,1,.36,1) 0.4s both}
+      .b5{animation:growBar5 1.2s cubic-bezier(.22,1,.36,1) 0.5s both}
+      .b6{animation:growBar6 1.2s cubic-bezier(.22,1,.36,1) 0.6s both}
+      .b7{animation:growBar7 1.2s cubic-bezier(.22,1,.36,1) 0.7s both}
+      .b8{animation:growBar8 1.2s cubic-bezier(.22,1,.36,1) 0.8s both}
+      .b9{animation:growBar9 1.2s cubic-bezier(.22,1,.36,1) 0.9s both}
+      .b10{animation:growBar10 1.2s cubic-bezier(.22,1,.36,1) 1.0s both}
+    </style>
+  </defs>
+  <text x="40" y="36" font-family="monospace" font-size="11" font-weight="600" letter-spacing="2" fill="#6d28d9">AI / ML EXPERTISE</text>
+  <line x1="40" y1="44" x2="640" y2="44" stroke="#7c3aed" stroke-width="0.5" opacity="0.4"/>
+  <text x="40" y="75" font-family="monospace" font-size="13" font-weight="600" fill="#a855f7">Large Language Models</text><text x="638" y="75" font-family="monospace" font-size="12" font-weight="700" fill="#c084fc" text-anchor="end">95%</text>
+  <rect x="40" y="82" width="398" height="10" rx="5" fill="rgba(139,92,246,0.12)"/><rect x="40" y="82" height="10" rx="5" fill="url(#bar1)" class="b1"/>
+  <text x="40" y="106" font-family="sans-serif" font-size="11" fill="#8b949e">GPT-4 · Claude · Gemini · Llama · LoRA / QLoRA · RLHF · Fine-tuning</text>
+  <text x="40" y="130" font-family="monospace" font-size="13" font-weight="600" fill="#a855f7">Retrieval-Augmented Generation</text><text x="638" y="130" font-family="monospace" font-size="12" font-weight="700" fill="#c084fc" text-anchor="end">92%</text>
+  <rect x="40" y="137" width="398" height="10" rx="5" fill="rgba(139,92,246,0.12)"/><rect x="40" y="137" height="10" rx="5" fill="url(#bar2)" class="b2"/>
+  <text x="40" y="161" font-family="sans-serif" font-size="11" fill="#8b949e">LangChain · LlamaIndex · Pinecone · Weaviate · FAISS · Hybrid Search</text>
+  <text x="40" y="185" font-family="monospace" font-size="13" font-weight="600" fill="#a855f7">Prompt Engineering</text><text x="638" y="185" font-family="monospace" font-size="12" font-weight="700" fill="#c084fc" text-anchor="end">95%</text>
+  <rect x="40" y="192" width="398" height="10" rx="5" fill="rgba(139,92,246,0.12)"/><rect x="40" y="192" height="10" rx="5" fill="url(#bar1)" class="b9"/>
+  <text x="40" y="216" font-family="sans-serif" font-size="11" fill="#8b949e">Chain-of-Thought · Few-Shot · Structured Outputs · Evals · System Design</text>
+  <text x="40" y="240" font-family="monospace" font-size="13" font-weight="600" fill="#a855f7">NLP &amp; Text Analytics</text><text x="638" y="240" font-family="monospace" font-size="12" font-weight="700" fill="#c084fc" text-anchor="end">95%</text>
+  <rect x="40" y="247" width="398" height="10" rx="5" fill="rgba(139,92,246,0.12)"/><rect x="40" y="247" height="10" rx="5" fill="url(#bar1)" class="b5"/>
+  <text x="40" y="271" font-family="sans-serif" font-size="11" fill="#8b949e">Hugging Face · spaCy · BERT · Sentence Transformers · Embeddings</text>
+  <text x="40" y="295" font-family="monospace" font-size="13" font-weight="600" fill="#a855f7">Deep Learning</text><text x="638" y="295" font-family="monospace" font-size="12" font-weight="700" fill="#c084fc" text-anchor="end">88%</text>
+  <rect x="40" y="302" width="398" height="10" rx="5" fill="rgba(139,92,246,0.12)"/><rect x="40" y="302" height="10" rx="5" fill="url(#bar3)" class="b3"/>
+  <text x="40" y="326" font-family="sans-serif" font-size="11" fill="#8b949e">PyTorch · TensorFlow · CNNs · RNNs · Transformers · Attention</text>
+  <text x="40" y="350" font-family="monospace" font-size="13" font-weight="600" fill="#a855f7">Multi-Agent Systems</text><text x="638" y="350" font-family="monospace" font-size="12" font-weight="700" fill="#c084fc" text-anchor="end">87%</text>
+  <rect x="40" y="357" width="398" height="10" rx="5" fill="rgba(139,92,246,0.12)"/><rect x="40" y="357" height="10" rx="5" fill="url(#bar4)" class="b4"/>
+  <text x="40" y="381" font-family="sans-serif" font-size="11" fill="#8b949e">AutoGen · CrewAI · Tool Use · Memory · Orchestration Frameworks</text>
+  <text x="40" y="405" font-family="monospace" font-size="13" font-weight="600" fill="#a855f7">MLOps &amp; Model Serving</text><text x="638" y="405" font-family="monospace" font-size="12" font-weight="700" fill="#c084fc" text-anchor="end">85%</text>
+  <rect x="40" y="412" width="398" height="10" rx="5" fill="rgba(139,92,246,0.12)"/><rect x="40" y="412" height="10" rx="5" fill="url(#bar2)" class="b7"/>
+  <text x="40" y="436" font-family="sans-serif" font-size="11" fill="#8b949e">MLflow · BentoML · Triton · SageMaker · Vertex AI · Monitoring</text>
+  <text x="40" y="460" font-family="monospace" font-size="13" font-weight="600" fill="#a855f7">Vector Databases</text><text x="638" y="460" font-family="monospace" font-size="12" font-weight="700" fill="#c084fc" text-anchor="end">87%</text>
+  <rect x="40" y="467" width="398" height="10" rx="5" fill="rgba(139,92,246,0.12)"/><rect x="40" y="467" height="10" rx="5" fill="url(#bar5)" class="b8"/>
+  <text x="40" y="491" font-family="sans-serif" font-size="11" fill="#8b949e">Pinecone · Qdrant · ChromaDB · pgvector · ANN Indexing</text>
+  <text x="40" y="515" font-family="monospace" font-size="13" font-weight="600" fill="#a855f7">Data Engineering</text><text x="638" y="515" font-family="monospace" font-size="12" font-weight="700" fill="#c084fc" text-anchor="end">82%</text>
+  <rect x="40" y="522" width="398" height="10" rx="5" fill="rgba(139,92,246,0.12)"/><rect x="40" y="522" height="10" rx="5" fill="url(#bar3)" class="b6"/>
+  <text x="40" y="546" font-family="sans-serif" font-size="11" fill="#8b949e">Apache Spark · dbt · Airflow · Feature Stores · Pipeline Design</text>
+  <text x="40" y="570" font-family="monospace" font-size="13" font-weight="600" fill="#a855f7">Computer Vision</text><text x="638" y="570" font-family="monospace" font-size="12" font-weight="700" fill="#c084fc" text-anchor="end">78%</text>
+  <rect x="40" y="577" width="398" height="10" rx="5" fill="rgba(139,92,246,0.12)"/><rect x="40" y="577" height="10" rx="5" fill="url(#bar4)" class="b10"/>
+  <text x="40" y="601" font-family="sans-serif" font-size="11" fill="#8b949e">YOLO · OpenCV · Segment Anything · Stable Diffusion · CLIP</text>
+  <line x1="40" y1="615" x2="640" y2="615" stroke="#7c3aed" stroke-width="0.5" opacity="0.4"/>
+</svg>
 
 </div>
 
