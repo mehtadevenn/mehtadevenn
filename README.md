@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Senior+Software+Engineer;AI+%2F+ML+Engineer+%26+Researcher;Full+Stack+Architect+%7C+Cloud+Native)](https://git.io/typing-svg)
 
 <br/>
-
+<br/>
 ![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer_Science_%26_Engineering-6d28d9?style=for-the-badge&logo=graduation-cap&logoColor=white)
 &nbsp;
 ![Specialization](https://img.shields.io/badge/Specialization-Artificial_Intelligence_%26_ML-7c3aed?style=for-the-badge&logo=openai&logoColor=white)
