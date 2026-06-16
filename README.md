@@ -40,15 +40,13 @@
 
 ## About
 
-I am a **Senior Software Engineer** and **AI/ML Engineer** with deep expertise across the full product engineering lifecycle — from designing distributed systems architecture to deploying production-grade machine learning pipelines. I specialize in building high-performance, scalable software that solves real-world problems at enterprise scale.
-
-My technical foundation spans **backend systems engineering**, **cloud-native architecture**, **large language model (LLM) development**, and **deep learning research**. I architect solutions that balance engineering rigor with product velocity — enabling teams to ship reliable software without sacrificing quality or scalability.
-
-I approach engineering as a craft. Every system I build is designed with clear abstractions, observable internals, strong test coverage, and production resilience in mind. I hold a strong bias for clean interfaces, minimal dependencies, and composable design patterns.
-
-On the AI/ML side, I work across the full model development lifecycle: data curation, feature engineering, model training, evaluation, deployment, and monitoring. I have hands-on experience fine-tuning transformer models, building RAG-based applications, developing multi-agent LLM workflows, and deploying ML models at scale with low-latency inference requirements.
-
-I bring a **product engineering mindset** — I think beyond code to understand user needs, business constraints, and system tradeoffs. I contribute to technical strategy, mentor engineers, lead architecture reviews, and drive engineering culture.
+About
+I'm a Computer Science undergrad who doesn't wait for a job title to do serious work.
+While most people my age are still doing tutorials, I've been building production systems — RAG pipelines, multi-agent LLM frameworks, real-time data infrastructure — the kind of stuff that runs at scale and breaks in interesting ways.
+My obsession is AI/ML engineering. Not the surface-level kind. I care about what happens after the model is trained — how it gets served, evaluated, monitored, and improved without falling apart at 3am. I've gone deep on LLM fine-tuning, retrieval systems, and inference optimization because that's where the real engineering lives.
+I build full stack when the problem demands it. I write backend systems when performance matters. I go into cloud infrastructure when scale is the constraint. The tech I pick is always in service of the outcome — never the other way around.
+I'm not looking for permission to contribute. I find the hard problem, figure it out, and ship it.
+Open To: AI/ML Engineering Roles · Full Stack Internships · Research Engineering · Open Source Collaboration
 
 **Open To:** Senior / Staff / Principal Engineering roles · AI/ML Engineering · Platform Engineering · Technical Leadership · Remote & Hybrid Opportunities
 
