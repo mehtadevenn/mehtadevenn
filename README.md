@@ -80,8 +80,6 @@ I'm not looking for permission to contribute. I find the hard problem, figure it
 
 ## AI / ML Expertise
 
-## AI / ML Expertise
-
 | Domain | Proficiency | Stack |
 |:---|:---:|:---|
 | **Large Language Models** | ![95%](https://img.shields.io/badge/Expert-95%25-7c3aed?style=flat-square&labelColor=1a1a2e) | GPT-4 · Claude · Llama · LoRA · QLoRA · RLHF |
