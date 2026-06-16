@@ -80,10 +80,20 @@ I'm not looking for permission to contribute. I find the hard problem, figure it
 
 ## AI / ML Expertise
 
-<div align="center">
-  <img src="ai_ml_proficiency_bars.png" alt="AI ML Expertise" width="100%"/>
-</div>
+## AI / ML Expertise
 
+| Domain | Proficiency | Stack |
+|:---|:---:|:---|
+| **Large Language Models** | ![95%](https://img.shields.io/badge/Expert-95%25-7c3aed?style=flat-square&labelColor=1a1a2e) | GPT-4 · Claude · Llama · LoRA · QLoRA · RLHF |
+| **Retrieval-Augmented Generation** | ![92%](https://img.shields.io/badge/Expert-92%25-7c3aed?style=flat-square&labelColor=1a1a2e) | LangChain · LlamaIndex · Pinecone · FAISS · Weaviate |
+| **Prompt Engineering** | ![95%](https://img.shields.io/badge/Expert-95%25-7c3aed?style=flat-square&labelColor=1a1a2e) | CoT · Few-Shot · Structured Outputs · Evals |
+| **NLP & Text Analytics** | ![95%](https://img.shields.io/badge/Expert-95%25-7c3aed?style=flat-square&labelColor=1a1a2e) | Hugging Face · spaCy · BERT · Sentence Transformers |
+| **Deep Learning** | ![88%](https://img.shields.io/badge/Advanced-88%25-6d28d9?style=flat-square&labelColor=1a1a2e) | PyTorch · TensorFlow · CNNs · RNNs · Transformers |
+| **Multi-Agent Systems** | ![87%](https://img.shields.io/badge/Advanced-87%25-6d28d9?style=flat-square&labelColor=1a1a2e) | AutoGen · CrewAI · Tool Use · Memory · Orchestration |
+| **MLOps & Model Serving** | ![85%](https://img.shields.io/badge/Advanced-85%25-6d28d9?style=flat-square&labelColor=1a1a2e) | MLflow · BentoML · Triton · SageMaker · Vertex AI |
+| **Vector Databases** | ![87%](https://img.shields.io/badge/Advanced-87%25-6d28d9?style=flat-square&labelColor=1a1a2e) | Pinecone · Qdrant · ChromaDB · pgvector |
+| **Data Engineering** | ![82%](https://img.shields.io/badge/Advanced-82%25-5b21b6?style=flat-square&labelColor=1a1a2e) | Apache Spark · dbt · Airflow · Feature Stores |
+| **Computer Vision** | ![78%](https://img.shields.io/badge/Proficient-78%25-4f46e5?style=flat-square&labelColor=1a1a2e) | YOLO · OpenCV · Segment Anything · Stable Diffusion |
 ---
 
 ## Featured Projects
