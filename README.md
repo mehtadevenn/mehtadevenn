@@ -28,11 +28,11 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=7c3aed&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=mehtadevenn&style=flat-square&color=7c3aed&label=Profile+Views)
 &nbsp;
-![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=flat-square&color=6d28d9&label=Followers&logo=github)
+![GitHub Followers](https://img.shields.io/github/followers/mehtadevenn?style=flat-square&color=6d28d9&label=Followers&logo=github)
 &nbsp;
-![GitHub Stars](https://img.shields.io/github/stars/yourusername?style=flat-square&color=4f46e5&label=Total+Stars&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/mehtadevenn?style=flat-square&color=4f46e5&label=Total+Stars&logo=github)
 
 </div>
 
@@ -114,7 +114,7 @@ The system supports hybrid search strategies combining dense vector retrieval wi
 | **Performance** | P99 query latency < 120ms · 99.95% uptime SLA · Horizontal auto-scaling |
 | **Security** | RBAC · AES-256 encryption at rest · mTLS service mesh · SOC 2 compliant design |
 | **Impact** | 60% reduction in support ticket resolution time · 40% improvement in knowledge retrieval accuracy |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername/rag-platform) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mehtadevenn/rag-platform) |
 
 </details>
 
@@ -134,7 +134,7 @@ The platform integrates with Weights & Biases for experiment tracking, supports 
 | **Performance** | 45% reduction in training cost via spot orchestration · 3x faster experiment cycle time |
 | **Security** | IAM-scoped execution · Secret Manager integration · VPC-isolated training environments |
 | **Impact** | Adopted by 8 ML teams · Reduced model deployment lead time from 2 weeks to 4 hours |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername/ml-orchestrator) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mehtadevenn/ml-orchestrator) |
 
 </details>
 
@@ -154,7 +154,7 @@ Built using an agent orchestration pattern where specialized sub-agents handle d
 | **Performance** | < 90 second average review latency · 92% developer satisfaction score |
 | **Security** | OAuth 2.0 · Sandboxed code execution · Zero credential storage |
 | **Impact** | 35% reduction in post-merge defect rate · 50% reduction in manual review time |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername/code-review-agent) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mehtadevenn/code-review-agent) |
 
 </details>
 
@@ -174,7 +174,7 @@ Engineered for reliability and observability — the system maintains full data 
 | **Performance** | < 500ms end-to-end latency · 99.99% message delivery guarantee · Zero data loss |
 | **Security** | TLS encryption in transit · Kafka ACLs · Row-level security in ClickHouse |
 | **Impact** | Replaced legacy batch reporting system · Reduced time-to-insight from 24 hours to < 2 seconds |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername/realtime-analytics) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mehtadevenn/realtime-analytics) |
 
 </details>
 
@@ -333,9 +333,9 @@ Full stack engineer on a high-growth B2B SaaS platform serving 500+ enterprise c
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehtadevenn/mehtadevenn/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehtadevenn/mehtadevenn/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mehtadevenn/mehtadevenn/output/github-snake-dark.svg" />
 </picture>
 
 </div>
@@ -378,11 +378,11 @@ current_focus:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehtadevenn@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehtadevenn)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
 
