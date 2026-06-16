@@ -306,37 +306,11 @@ Full stack engineer on a high-growth B2B SaaS platform serving 500+ enterprise c
 
 </div>
 
----
-
-## GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=a855f7&line=7c3aed&point=6d28d9&area=true&area_color=4f46e5&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehtadevenn/mehtadevenn/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehtadevenn/mehtadevenn/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mehtadevenn/mehtadevenn/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
