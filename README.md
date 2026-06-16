@@ -12,7 +12,7 @@
 
 <br/>
 
-![Location](https://img.shields.io/badge/📍_India-Bengaluru,_Karnataka-4f46e5?style=flat-square&logoColor=white)
+![Location](https://img.shields.io/badge/📍_India-Gujarat,_Ahmedabad-4f46e5?style=flat-square&logoColor=white)
 &nbsp;
 ![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-22c55e?style=flat-square&logo=circle&logoColor=white)
 
