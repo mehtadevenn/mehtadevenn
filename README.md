@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Deven%20Mehta&fontSize=44&fontColor=fff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Mehta%20Deven&fontSize=44&fontColor=fff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer&descAlignY=60&descSize=18" width="100%"/>
 
 ![B.Tech CSE](https://img.shields.io/badge/B.Tech-CSE_(AI_%26_ML)-6d28d9?style=for-the-badge)
 ![Location](https://img.shields.io/badge/📍_Ahmedabad,_India-4f46e5?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Open_to_Work-22c55e?style=for-the-badge)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehtadevenn)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehtadevenn@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mehtadevenn&style=flat-square&color=7c3aed&label=Profile+Views)
